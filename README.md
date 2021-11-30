@@ -1,4 +1,4 @@
-<div align="center"><img src="https://www.sp.senai.br/img/logo-senai1.png" /></div>
+<div align="center"><img src="https://github.com/lipollis/Imagens-Git/blob/main/banner_assinatura.svg" /></div>
 
 <br> 
 <br>
